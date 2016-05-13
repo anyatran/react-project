@@ -1,0 +1,6 @@
+*.log
+.DS_Store
+assets
+node_modules
+public/scripts
+.idea/

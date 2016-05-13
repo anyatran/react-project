@@ -1,0 +1,30 @@
+{
+  "name": "react-keyboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp start"
+  },
+  "author": "Anya Tran",
+  "license": "ISC",
+  "dependencies": {
+    "babel-preset-es2015": "^6.6.0",
+    "babel-preset-react": "^6.5.0",
+    "babelify": "^7.3.0",
+    "body-parser": "^1.15.1",
+    "browserify": "^13.0.1",
+    "express": "^4.13.4",
+    "node-jsx": "^0.13.3",
+    "path": "^0.12.7",
+    "react": "^15.0.2",
+    "react-dom": "^15.0.2",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "devDependencies": {
+    "gulp-browserify": "^0.5.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-nodemon": "^2.0.7"
+  }
+}
